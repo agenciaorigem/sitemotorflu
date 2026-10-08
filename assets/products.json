@@ -1,0 +1,676 @@
+[
+  {
+    "slug": "desmi",
+    "name": "Desmi",
+    "category": "Arrefecimento",
+    "page": 2,
+    "tagline": "Água desmineralizada",
+    "description": "Água de alta pureza para uso automotivo, isenta de sais minerais. Indicada para sistemas que exigem água desmineralizada e para o preparo de produtos concentrados, conforme orientação do fabricante.",
+    "benefits": [
+      "Alta pureza",
+      "Isenta de sais minerais",
+      "Auxilia na preservação do sistema"
+    ],
+    "application": "Radiadores, baterias e sistemas com fluidos concentrados.",
+    "pack": "1 L e 5 L",
+    "vehicles": [
+      "Carros",
+      "Diesel e frotas"
+    ],
+    "doc": "https://motorflu.com.br/wp-content/uploads/2025/06/BT-AGUA-DESMINERALIZADA2-pdf.pdf",
+    "doc_date": "12/02/2024",
+    "use": "Para preparar fluidos concentrados, utilize a proporção de água indicada no rótulo do fluido e no manual do veículo. Também pode ser utilizada nas demais aplicações indicadas para água desmineralizada. Não é água potável.",
+    "extra": "Além de radiadores e baterias, o boletim apresenta aplicações em lavagem técnica de veículos, vidraria de laboratório, limpeza de eletrodos e circuitos.",
+    "specs": [
+      [
+        "Aspecto",
+        "Incolor"
+      ],
+      [
+        "Densidade (20/4 °C)",
+        "0,990–1,00 g/cm³"
+      ],
+      [
+        "pH",
+        "5,5–7,5"
+      ],
+      [
+        "Condutividade",
+        "Máximo 20 µS, conforme unidade publicada"
+      ]
+    ],
+    "source": "https://motorflu.com.br/aditivos-para-radiadores/",
+    "storage": "Manter a embalagem fechada, em local ventilado e protegido do calor. Consulte o boletim e a ficha de segurança para os cuidados específicos."
+  },
+  {
+    "slug": "rad-care",
+    "name": "Rad Care",
+    "category": "Arrefecimento",
+    "page": 4,
+    "tagline": "Protetivo para radiador",
+    "description": "Fluido protetivo com polímeros tecnológicos, desenvolvido para proteger superfícies metálicas do sistema de arrefecimento. Sua formulação reúne ação anticorrosiva, antiferrugem e antiespumante.",
+    "benefits": [
+      "Proteção anticorrosiva",
+      "Ação antiferrugem",
+      "Pronto para uso"
+    ],
+    "application": "Sistemas de arrefecimento de veículos leves.",
+    "pack": "1 L e 5 L",
+    "vehicles": [
+      "Carros"
+    ],
+    "doc": "https://motorflu.com.br/wp-content/uploads/2025/06/BT-RAD-CARE-PROTETIVO-ORGANICO-pdf.pdf",
+    "doc_date": "12/02/2024",
+    "use": "Produto pronto para uso: aplicar sem diluição, conforme o procedimento de abastecimento do sistema previsto pelo fabricante do veículo. Ajustar o volume ao nível recomendado e seguir o procedimento de retirada de ar.",
+    "specs": [
+      [
+        "Cores publicadas",
+        "Verde ou vermelho"
+      ],
+      [
+        "Densidade (20/4 °C)",
+        "0,990–1,00 g/cm³"
+      ],
+      [
+        "pH",
+        "7,5–11,5"
+      ]
+    ],
+    "source": "https://motorflu.com.br/aditivos-para-radiadores/",
+    "storage": "Manter a embalagem fechada, em local ventilado e protegido do calor. Consulte o boletim e a ficha de segurança para os cuidados específicos."
+  },
+  {
+    "slug": "radol",
+    "name": "Radol",
+    "category": "Arrefecimento",
+    "page": 5,
+    "tagline": "Aditivo orgânico pronto para uso",
+    "description": "Aditivo para radiador com etilenoglicol e tecnologia orgânica. Desenvolvido para auxiliar a troca térmica e proteger o sistema contra corrosão, ferrugem e incrustações.",
+    "benefits": [
+      "Eficiência na troca térmica",
+      "Proteção do radiador e motor",
+      "Aplicação sem diluição"
+    ],
+    "application": "Sistemas de arrefecimento automotivo compatíveis com a especificação do produto.",
+    "pack": "1 L e 5 L",
+    "vehicles": [
+      "Carros"
+    ],
+    "use": "Apresentação pronta para uso: não diluir. Aplique conforme o procedimento do fabricante do veículo, respeitando o nível recomendado.",
+    "source": "https://motorflu.com.br/aditivos-para-radiadores/"
+  },
+  {
+    "slug": "max-rad-33",
+    "name": "Max Rad 33",
+    "category": "Arrefecimento",
+    "page": 6,
+    "tagline": "Fluido orgânico com etilenoglicol",
+    "description": "Fluido de arrefecimento pronto para uso, desenvolvido para eficiência térmica e proteção em condições severas. O catálogo informa atendimento à NBR 14261.",
+    "benefits": [
+      "Tecnologia orgânica",
+      "Proteção contra corrosão",
+      "Ação anti-incrustante"
+    ],
+    "application": "Sistemas de arrefecimento compatíveis de carros e caminhões.",
+    "pack": "",
+    "vehicles": [
+      "Carros",
+      "Diesel e frotas"
+    ],
+    "doc": "https://motorflu.com.br/wp-content/uploads/2025/06/BT-MAX-RAD-33-ORGANICO-PRONTO-PARA-USO-pdf.pdf",
+    "doc_date": "12/02/2024",
+    "use": "Aplicar o fluido pronto para uso sem adicionar água. Respeitar o volume e o nível definidos pelo fabricante do veículo e executar o procedimento de retirada de ar do sistema.",
+    "specs": [
+      [
+        "Cores publicadas",
+        "Verde ou vermelho"
+      ],
+      [
+        "Densidade (20/4 °C)",
+        "0,990–1,10 g/cm³"
+      ],
+      [
+        "pH",
+        "7,5–11,5"
+      ]
+    ],
+    "source": "https://motorflu.com.br/aditivos-para-radiadores/",
+    "storage": "Manter a embalagem fechada, em local ventilado e protegido do calor. Consulte o boletim e a ficha de segurança para os cuidados específicos."
+  },
+  {
+    "slug": "fluido-tipo-c",
+    "name": "Fluido Tipo C",
+    "category": "Arrefecimento",
+    "page": 7,
+    "tagline": "Arrefecimento para frotas",
+    "description": "Solução arrefecedora orgânica da linha Long Life, desenvolvida para proteção, eficiência de troca térmica e durabilidade do sistema. O catálogo informa atendimento à NBR 14261.",
+    "benefits": [
+      "Proteção contra corrosão",
+      "Eficiência térmica",
+      "Maior durabilidade do sistema"
+    ],
+    "application": "Frotas leves, caminhões, ônibus e máquinas pesadas.",
+    "pack": "",
+    "vehicles": [
+      "Carros",
+      "Diesel e frotas"
+    ],
+    "source": "https://motorflu.com.br/aditivos-para-radiadores/"
+  },
+  {
+    "slug": "coolant-indicator",
+    "name": "Color Rad",
+    "category": "Arrefecimento",
+    "page": 8,
+    "tagline": "Proteção com indicação por cor",
+    "description": "Fluido com tecnologia indicadora que muda de cor para ajudar a acompanhar sua condição. O catálogo apresenta estágios azul, verde e amarelo, associados ao planejamento da troca.",
+    "benefits": [
+      "Indicador visual por cor",
+      "Proteção de superfícies metálicas",
+      "Ação antiespumante"
+    ],
+    "application": "Arrefecimento de motores a combustão, conforme especificação técnica.",
+    "pack": "",
+    "vehicles": [
+      "Carros",
+      "Diesel e frotas"
+    ],
+    "doc": "https://motorflu.com.br/wp-content/uploads/2025/06/BT-COLOR-RAD-PRONTO-PARA-USO-ORGANICO.pdf",
+    "doc_date": "12/02/2024",
+    "use": "Para esta apresentação pronta para uso, aplicar sem diluição, respeitando o volume recomendado pelo fabricante do veículo. A substituição do fluido e a retirada de ar devem seguir o procedimento do sistema de arrefecimento.",
+    "extra": "A tecnologia indicadora apresenta uma evolução visual do azul para o verde e, depois, para o amarelo. A mudança ajuda a planejar a manutenção do fluido; não substitui a inspeção do veículo.",
+    "specs": [
+      [
+        "Cor inicial",
+        "Azul"
+      ],
+      [
+        "Densidade (20/4 °C)",
+        "Maior que 1,065 g/cm³"
+      ],
+      [
+        "pH",
+        "7,5–11,5"
+      ]
+    ],
+    "source": "https://motorflu.com.br/color-rad2/",
+    "storage": "Manter a embalagem fechada, em local ventilado e protegido do calor. Consulte o boletim e a ficha de segurança para os cuidados específicos."
+  },
+  {
+    "slug": "rad-indicator",
+    "name": "Rad Indicator",
+    "category": "Arrefecimento",
+    "page": 9,
+    "tagline": "Tecnologia indicadora inorgânica",
+    "description": "Fluido da linha premium com tecnologia indicadora por cor. A formulação apresentada reúne monoetilenoglicol, ação anticorrosiva e antiespumante para o sistema de arrefecimento.",
+    "benefits": [
+      "Indicação visual para troca",
+      "Proteção anticorrosiva",
+      "Auxilia a troca térmica"
+    ],
+    "application": "Sistemas compatíveis com fluidos inorgânicos; o catálogo destaca equipamentos Caterpillar.",
+    "pack": "",
+    "vehicles": [
+      "Diesel e frotas"
+    ],
+    "doc": "https://motorflu.com.br/wp-content/uploads/2025/06/BT-RAD-INDICATOR-PRONTO-PARA-USO-INORGANICO-Opcao-2pdf.pdf",
+    "doc_date": "31/01/2024",
+    "use": "A apresentação pronta para uso deve ser aplicada sem diluição. Siga o volume indicado pelo fabricante do veículo ou equipamento e o procedimento de retirada de ar do sistema.",
+    "extra": "O boletim identifica a apresentação pronta para uso como fluido inorgânico com indicador de troca por cor.",
+    "specs": [
+      [
+        "Cor inicial",
+        "Azul"
+      ],
+      [
+        "Densidade (20/4 °C)",
+        "Maior que 1,065 g/cm³"
+      ],
+      [
+        "pH",
+        "7,5–11,5"
+      ]
+    ],
+    "source": "https://motorflu.com.br/aditivos-para-radiadores/",
+    "storage": "Manter a embalagem fechada, em local ventilado e protegido do calor. Consulte o boletim e a ficha de segurança para os cuidados específicos."
+  },
+  {
+    "slug": "e-volt",
+    "name": "e-Volt",
+    "category": "Arrefecimento",
+    "page": 10,
+    "tagline": "Fluido para híbridos e elétricos",
+    "description": "Fluido de arrefecimento de baixa condutividade, apresentado para as necessidades térmicas de veículos híbridos e elétricos. Ajuda no controle da temperatura e na proteção dos componentes do sistema.",
+    "benefits": [
+      "Baixa condutividade",
+      "Controle térmico",
+      "Proteção dos componentes"
+    ],
+    "application": "Veículos híbridos e elétricos compatíveis com a especificação do produto.",
+    "pack": "",
+    "vehicles": [
+      "Híbridos e elétricos"
+    ],
+    "source": "https://motorflu.com.br/aditivos-para-radiadores/"
+  },
+  {
+    "slug": "limpa-radiador",
+    "name": "Limpa Radiador",
+    "category": "Limpeza e manutenção",
+    "page": 11,
+    "tagline": "Limpeza do sistema de arrefecimento",
+    "description": "Fórmula decapante para remover ferrugem, lodo, resíduos e incrustações do radiador e das tubulações. Prepara o sistema para receber o fluido de arrefecimento adequado.",
+    "benefits": [
+      "Remove ferrugem e lodo",
+      "Limpa o sistema",
+      "Prepara para o novo fluido"
+    ],
+    "application": "Carros, caminhões, ônibus, máquinas e equipamentos.",
+    "pack": "500 mL",
+    "vehicles": [
+      "Carros",
+      "Diesel e frotas"
+    ],
+    "source": "https://motorflu.com.br/aditivos-para-radiadores/"
+  },
+  {
+    "slug": "luminol",
+    "name": "Luminol",
+    "category": "Diagnóstico",
+    "page": 12,
+    "tagline": "Identificador de vazamentos por UV",
+    "description": "Aditivo identificador que permite localizar vazamentos no sistema de arrefecimento com auxílio de uma lanterna UV. Desenvolvido para facilitar inspeções e reparos.",
+    "benefits": [
+      "Identificação visual",
+      "Localização de vazamentos",
+      "Agilidade no diagnóstico"
+    ],
+    "application": "Sistemas de arrefecimento de veículos e máquinas. Necessita lanterna UV.",
+    "pack": "",
+    "vehicles": [
+      "Carros",
+      "Diesel e frotas"
+    ],
+    "use": "A identificação do vazamento é feita com auxílio de lanterna UV. Consulte o rótulo para a quantidade de produto, a aplicação e o procedimento de inspeção.",
+    "source": "https://motorflu.com.br/aditivos-para-radiadores/"
+  },
+  {
+    "slug": "motor-shot-flex",
+    "name": "Motor Shot Flex",
+    "category": "Combustíveis",
+    "page": 14,
+    "tagline": "Reparador químico profissional",
+    "description": "Tratamento profissional para limpeza química do sistema de combustível. O material apresenta limpeza dos bicos sem sua retirada, descarbonização e estabilização da marcha lenta.",
+    "benefits": [
+      "Limpeza de bicos",
+      "Descarbonização",
+      "Marcha lenta mais estável"
+    ],
+    "application": "Carros e motos; aplicação profissional conforme o rótulo.",
+    "pack": "",
+    "vehicles": [
+      "Carros",
+      "Motos"
+    ],
+    "extra": "O site apresenta a limpeza de bicos sem retirada, aplicação em carros e motos e uso em sistemas de injeção direta.",
+    "source": "https://motorflu.com.br/aditivo-de-combustiveis/"
+  },
+  {
+    "slug": "petrol-max",
+    "name": "Petrol Max",
+    "category": "Combustíveis",
+    "page": 15,
+    "tagline": "Aditivo para gasolina, etanol e flex",
+    "description": "Aditivo para limpeza química dos bicos injetores e tratamento do sistema de combustível. O catálogo destaca melhora da combustão, do rendimento e da estabilidade da marcha lenta.",
+    "benefits": [
+      "Limpeza do sistema de injeção",
+      "Melhora da combustão",
+      "Marcha lenta estável"
+    ],
+    "application": "Motores a gasolina, etanol e flex.",
+    "pack": "200 mL",
+    "vehicles": [
+      "Carros"
+    ],
+    "doc": "https://motorflu.com.br/wp-content/uploads/2025/07/BT-Petrol-Max-01Jul2024.pdf",
+    "doc_date": "01/07/2024",
+    "use": "Adicionar ao tanque antes do abastecimento. O boletim publicado orienta um frasco de 200 mL para meio tanque a um tanque cheio e circulação por 20–30 km ou 10–20 minutos após a aplicação. Não dobrar a dose em um único abastecimento. Confira a orientação vigente no rótulo.",
+    "extra": "O boletim informa compatibilidade com gasolina, etanol e suas misturas e aplicação em motores de ciclo Otto.",
+    "specs": [
+      [
+        "Cor publicada",
+        "Amarelo"
+      ],
+      [
+        "Densidade (20/4 °C)",
+        "0,77–0,80 g/cm³"
+      ]
+    ],
+    "source": "https://motorflu.com.br/aditivo-de-combustiveis/",
+    "storage": "Manter a embalagem fechada, em local ventilado e protegido do calor. Manter também longe do sol e de fontes de ignição. Consulte o boletim e a ficha de segurança para os cuidados específicos."
+  },
+  {
+    "slug": "petrol-up",
+    "name": "Petrol Up",
+    "category": "Combustíveis",
+    "page": 16,
+    "tagline": "Proteção para o dia a dia",
+    "description": "Aditivo para combustível voltado à manutenção cotidiana. Atua na limpeza e lubrificação do sistema de injeção, ajudando a manter bicos e válvulas livres de depósitos.",
+    "benefits": [
+      "Limpeza de bicos",
+      "Lubrificação do sistema",
+      "Manutenção preventiva"
+    ],
+    "application": "Motores a gasolina, etanol e flex.",
+    "pack": "",
+    "vehicles": [
+      "Carros"
+    ],
+    "doc": "https://motorflu.com.br/wp-content/uploads/2025/07/BT-Petrol-UP-01Jul2024.pdf",
+    "doc_date": "01/07/2024",
+    "use": "Adicionar 200 mL ao tanque antes do abastecimento, para meio tanque a um tanque cheio, conforme o boletim publicado. Circular por 20–30 km ou 10–20 minutos após a aplicação. O documento recomenda uso pelo menos a cada quatro abastecimentos e orienta não dobrar a dose.",
+    "extra": "Compatível com gasolina, etanol e suas misturas, para limpeza e manutenção do sistema de combustão de ciclo Otto.",
+    "specs": [
+      [
+        "Cor publicada",
+        "Laranja"
+      ],
+      [
+        "Densidade (20/4 °C)",
+        "0,78–0,81 g/cm³"
+      ]
+    ],
+    "source": "https://motorflu.com.br/aditivo-de-combustiveis/",
+    "storage": "Manter a embalagem fechada, em local ventilado e protegido do calor. Manter também longe do sol e de fontes de ignição. Consulte o boletim e a ficha de segurança para os cuidados específicos."
+  },
+  {
+    "slug": "maxitec-car",
+    "name": "Maxitec Car",
+    "category": "Motor e atrito",
+    "page": 17,
+    "tagline": "Condicionador de metais",
+    "description": "Aditivo redutor de atrito com nanotecnologia para o óleo do motor. Desenvolvido para auxiliar a proteção dos componentes e um funcionamento mais suave.",
+    "benefits": [
+      "Redução de atrito",
+      "Proteção dos componentes",
+      "Funcionamento mais suave"
+    ],
+    "application": "Motores automotivos; consulte a compatibilidade e a dosagem no rótulo.",
+    "pack": "200 mL",
+    "vehicles": [
+      "Carros"
+    ],
+    "use": "Aplicação no óleo do motor. Confirme no rótulo a compatibilidade com o óleo, a dosagem e o procedimento para o seu veículo.",
+    "source": "https://motorflu.com.br/redutor-de-atrito/"
+  },
+  {
+    "slug": "no-smoke",
+    "name": "No Smoke",
+    "category": "Motor e atrito",
+    "page": 18,
+    "tagline": "Tratamento antifumaça",
+    "description": "Tratamento apresentado para motores de alta quilometragem com excesso de fumaça no escapamento. O material destaca redução de consumo de óleo e de ruídos metálicos.",
+    "benefits": [
+      "Redução de fumaça",
+      "Auxilia no consumo de óleo",
+      "Tratamento para alta quilometragem"
+    ],
+    "application": "Carros acima de 200 mil km, conforme indicação e instruções do produto.",
+    "pack": "",
+    "vehicles": [
+      "Carros"
+    ],
+    "source": "https://motorflu.com.br/anti-smoke/"
+  },
+  {
+    "slug": "kit-zamap-carro",
+    "name": "Kit ZAMAP Carro",
+    "category": "Kits",
+    "page": 19,
+    "tagline": "Tratamento combinado para o motor",
+    "description": "Kit que reúne Petrol Max para o combustível e Maxitec para o óleo do motor. Combina tratamento do sistema de injeção e redução de atrito em uma solução para carros.",
+    "benefits": [
+      "Tratamento do combustível",
+      "Redução de atrito",
+      "Proteção combinada"
+    ],
+    "application": "Carros compatíveis com os dois produtos do kit.",
+    "pack": "",
+    "vehicles": [
+      "Carros"
+    ],
+    "use": "O kit utiliza Petrol Max no tanque de combustível e Maxitec no óleo do motor. Cada componente deve ser aplicado no seu respectivo sistema, conforme dosagem e compatibilidade indicadas no rótulo.",
+    "source": "https://motorflu.com.br/kit-zamap/"
+  },
+  {
+    "slug": "gasnox",
+    "name": "Gasnox",
+    "category": "Diagnóstico",
+    "page": 20,
+    "tagline": "Fluido para teste de junta do cabeçote",
+    "description": "Fluido de diagnóstico utilizado em equipamento de teste conectado ao sistema de arrefecimento. Auxilia a identificação de vazamentos de gases associados à junta do cabeçote.",
+    "benefits": [
+      "Detecção visual",
+      "Auxilia o diagnóstico",
+      "Aplicação no equipamento de teste"
+    ],
+    "application": "Uso profissional com equipamento apropriado para teste de gases.",
+    "pack": "",
+    "vehicles": [
+      "Carros",
+      "Diesel e frotas"
+    ]
+  },
+  {
+    "slug": "ox40",
+    "name": "OX40",
+    "category": "Limpeza e manutenção",
+    "page": 21,
+    "tagline": "Spray desengripante 5 em 1",
+    "description": "Spray multifuncional para mecanismos travados e superfícies metálicas. Reúne ações desengripante, antiferrugem, lubrificante, protetiva e desincrustante.",
+    "benefits": [
+      "Libera mecanismos travados",
+      "Lubrifica e protege",
+      "Combate a ferrugem"
+    ],
+    "application": "Oficinas, veículos, equipamentos e manutenção em geral.",
+    "pack": "300 mL / 150 g",
+    "vehicles": [
+      "Carros",
+      "Motos",
+      "Diesel e frotas"
+    ],
+    "doc": "https://motorflu.com.br/wp-content/uploads/2025/06/OX40-Ficha.jpg",
+    "doc_format": "Imagem",
+    "use": "Aplicar nos mecanismos e superfícies indicados pelo rótulo, utilizando o bico aplicador para direcionar o spray. Consulte as instruções da embalagem para preparação, distância e tempo de ação.",
+    "extra": "O site também apresenta uso industrial, doméstico e agrícola, além da manutenção automotiva.",
+    "source": "https://motorflu.com.br/spray-aerosol/"
+  },
+  {
+    "slug": "descarbon-black",
+    "name": "Descarbon Black",
+    "category": "Limpeza e manutenção",
+    "page": 22,
+    "tagline": "Spray para limpeza de TBI",
+    "description": "Descarbonizante para limpeza do TBI e do corpo de borboleta. Remove depósitos de carbono e impurezas, auxiliando a resposta do acelerador e a marcha lenta.",
+    "benefits": [
+      "Remove carbonização",
+      "Limpeza direcionada",
+      "Auxilia o desempenho"
+    ],
+    "application": "TBI e corpo de borboleta; aplicação conforme instruções do rótulo.",
+    "pack": "",
+    "vehicles": [
+      "Carros"
+    ]
+  },
+  {
+    "slug": "tucho-off",
+    "name": "Tucho Off",
+    "category": "Motor e atrito",
+    "page": 23,
+    "tagline": "Limpeza de tuchos hidráulicos",
+    "description": "Aditivo para o óleo do motor destinado à limpeza de tuchos hidráulicos. O catálogo destaca lubrificação e redução de ruídos associados a tuchos sujos.",
+    "benefits": [
+      "Limpeza de tuchos",
+      "Lubrificação",
+      "Funcionamento mais suave"
+    ],
+    "application": "Motores com tuchos hidráulicos, conforme compatibilidade e dosagem do produto.",
+    "pack": "200 mL",
+    "vehicles": [
+      "Carros"
+    ]
+  },
+  {
+    "slug": "petrol-moto-max",
+    "name": "Petrol Moto Max",
+    "category": "Combustíveis",
+    "page": 24,
+    "tagline": "Aditivo de combustível para motos",
+    "description": "Tratamento de combustível para motocicletas, com foco em limpeza química do bico injetor, estabilidade da marcha lenta e rendimento do motor.",
+    "benefits": [
+      "Limpeza do bico injetor",
+      "Marcha lenta estável",
+      "Melhora da combustão"
+    ],
+    "application": "Motocicletas a gasolina, etanol e flex.",
+    "pack": "",
+    "vehicles": [
+      "Motos"
+    ]
+  },
+  {
+    "slug": "motor-torq-moto",
+    "name": "Motor Torq Moto",
+    "category": "Motor e atrito",
+    "page": 25,
+    "tagline": "Redutor de atrito para motos",
+    "description": "Produto da linha moto para redução de atrito e proteção do motor. O material destaca respostas mais suaves e proteção desde a partida a frio.",
+    "benefits": [
+      "Redução de atrito",
+      "Proteção na partida",
+      "Funcionamento mais suave"
+    ],
+    "application": "Motores de motocicletas, conforme compatibilidade e instruções do produto.",
+    "pack": "",
+    "vehicles": [
+      "Motos"
+    ]
+  },
+  {
+    "slug": "kit-zamap-motorcycle",
+    "name": "Kit ZAMAP Motorcycle",
+    "category": "Kits",
+    "page": 26,
+    "tagline": "Proteção combinada para motos",
+    "description": "Kit para motocicletas composto por aditivo de combustível e redutor de atrito. Reúne tratamento da combustão e proteção contra desgaste.",
+    "benefits": [
+      "Melhora da queima",
+      "Redução de atrito",
+      "Proteção combinada"
+    ],
+    "application": "Motocicletas compatíveis com os produtos do kit.",
+    "pack": "",
+    "vehicles": [
+      "Motos"
+    ],
+    "source": "https://motorflu.com.br/kit-zamap-moto/"
+  },
+  {
+    "slug": "estabilizador-diesel",
+    "name": "Estabilizador Diesel",
+    "category": "Diesel",
+    "page": 27,
+    "tagline": "Tratamento com melhorador de cetano",
+    "description": "Estabilizador para diesel apresentado com melhorador de índice de cetano e nanotecnologia. O catálogo destaca tratamento do combustível e proteção do sistema em veículos leves e pesados.",
+    "benefits": [
+      "Melhora da combustão",
+      "Redução de fumaça preta",
+      "Proteção do sistema"
+    ],
+    "application": "Veículos diesel leves e pesados; consulte a dosagem do produto.",
+    "pack": "500 mL",
+    "vehicles": [
+      "Diesel e frotas"
+    ],
+    "source": "https://motorflu.com.br/desengraxante-base-agua/"
+  },
+  {
+    "slug": "petrol-diesel-estabilizador",
+    "name": "Petrol Diesel Estabilizador",
+    "category": "Diesel",
+    "page": 28,
+    "tagline": "Tratamento profissional para diesel",
+    "description": "Estabilizador para diesel apresentado para proteção e desempenho do sistema de combustível. O material destaca melhora da queima, menor fumaça preta e proteção contra desgaste.",
+    "benefits": [
+      "Tratamento do combustível",
+      "Proteção do sistema",
+      "Combustão mais eficiente"
+    ],
+    "application": "Veículos e frotas diesel, conforme especificação e dosagem do produto.",
+    "pack": "200 mL, 500 mL, 1 L, 5 L, 20 L e 200 L",
+    "vehicles": [
+      "Diesel e frotas"
+    ],
+    "extra": "A página de estabilizador apresenta proteção anticorrosiva, lubrificação de bombas e tratamento gradual de depósitos, com aplicações em frotas, máquinas agrícolas e geradores.",
+    "source": "https://motorflu.com.br/desengraxante-base-agua/"
+  },
+  {
+    "slug": "petrol-diesel-nanotecnologia",
+    "name": "Petrol Diesel com Nanotecnologia",
+    "category": "Diesel",
+    "page": 29,
+    "tagline": "Tratamento para geradores",
+    "description": "Aditivo para diesel apresentado para geradores estacionários. Atua no tratamento do combustível, com benefícios de limpeza e lubrificação do sistema de injeção.",
+    "benefits": [
+      "Limpeza de bicos e bomba",
+      "Redução de depósitos",
+      "Proteção anticorrosiva"
+    ],
+    "application": "Geradores estacionários e aplicações diesel compatíveis.",
+    "pack": "5 L",
+    "vehicles": [
+      "Diesel e frotas"
+    ],
+    "source": "https://motorflu.com.br/aditivo-diesel/"
+  },
+  {
+    "slug": "motor-torq-290",
+    "name": "Motor Torq até 290 CV",
+    "category": "Motor e atrito",
+    "page": 30,
+    "tagline": "Redutor de atrito para diesel",
+    "description": "Produto para motores diesel de pequeno e médio porte, na faixa de potência indicada. Desenvolvido para auxiliar a proteção dos componentes e reduzir atrito e desgaste.",
+    "benefits": [
+      "Menor atrito",
+      "Proteção dos componentes",
+      "Eficiência do motor"
+    ],
+    "application": "Caminhões e ônibus leves e médios, máquinas agrícolas e equipamentos compatíveis.",
+    "pack": "500 mL",
+    "vehicles": [
+      "Diesel e frotas"
+    ],
+    "source": "https://motorflu.com.br/redutor-de-atrito/"
+  },
+  {
+    "slug": "motor-torq-570",
+    "name": "Motor Torq até 570 CV",
+    "category": "Motor e atrito",
+    "page": 31,
+    "tagline": "Proteção para a linha diesel pesada",
+    "description": "Redutor de atrito para motores diesel de maior porte e operações severas. O catálogo destaca proteção contra desgaste e eficiência em aplicações pesadas.",
+    "benefits": [
+      "Redução de desgaste",
+      "Proteção em uso severo",
+      "Eficiência do motor"
+    ],
+    "application": "Carretas, guindastes e aplicações fora de estrada compatíveis.",
+    "pack": "500 mL",
+    "vehicles": [
+      "Diesel e frotas"
+    ],
+    "source": "https://motorflu.com.br/redutor-de-atrito/"
+  }
+]

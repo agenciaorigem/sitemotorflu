@@ -1,18 +1,17 @@
-'use strict';
 const siteRoot=new URL('../',document.currentScript.src);
 const sitePath=path=>new URL(path,siteRoot).href;
 const localRoute=path=>path.startsWith(siteRoot.pathname)?'/'+path.slice(siteRoot.pathname.length).replace(/index\.html$/,''):path;
+'use strict';
 const nav=document.getElementById('navigation');
 const menu=document.querySelector('.menu-toggle');
 if(menu&&nav){menu.addEventListener('click',()=>{const open=menu.getAttribute('aria-expanded')!=='true';menu.setAttribute('aria-expanded',String(open));nav.classList.toggle('open',open)});document.addEventListener('keydown',e=>{if(e.key==='Escape'){nav.classList.remove('open');menu.setAttribute('aria-expanded','false')}})}
 const navLinks=[...document.querySelectorAll('#navigation > a')];
 function updateNavigation(){
  const catalogue=document.getElementById('catalogo');
- const currentRoute=localRoute(location.pathname);
- const isHome=currentRoute==='/';
- const productsActive=currentRoute.startsWith('/produtos/')||(isHome&&catalogue&&catalogue.getBoundingClientRect().top<=(document.querySelector('.site-header')?.offsetHeight||86)+30);
+ const isHome=localRoute(location.pathname)==='/';
+ const productsActive=localRoute(location.pathname).startsWith('/produtos/')||(isHome&&catalogue&&catalogue.getBoundingClientRect().top<=(document.querySelector('.site-header')?.offsetHeight||86)+30);
  for(const link of navLinks){const url=new URL(link.href);link.removeAttribute('aria-current');
- const active=url.hash==='#catalogo'?productsActive:(localRoute(url.pathname)==='/'?isHome&&!productsActive:localRoute(url.pathname)===currentRoute);
+ const active=url.hash==='#catalogo'?productsActive:(localRoute(url.pathname)==='/'?isHome&&!productsActive:localRoute(url.pathname)===localRoute(location.pathname));
  if(active)link.setAttribute('aria-current',isHome?'location':'page');
  }
 }
